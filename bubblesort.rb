@@ -1,4 +1,5 @@
-def bubblesort[a]
+def bubblesort(a)
+    flag =true
     while flag
         flag = false
          for i in 0..a.length-2
